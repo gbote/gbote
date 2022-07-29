@@ -6,11 +6,11 @@ Aspiring Software Engineer, AI/ML Enthusiast
 
 For those reading, welcome! I am a junior pursuing a Bachelor of Science in Computer Science from The University of Texas at Austin. I am also pursuing a minor in Business and a certificate in Computational Science & Engineering.
 
-* 🌍  I'm based in Houston, Texas, United States.
+* 🌍  I am based in Houston, Texas, United States, but I am willing to relocate within the continental U.S.
 * 🖥️  See my portfolio at [Gerardo Bote | Software Portfolio](http://gbote.github.io).
 * ✉️  You can contact me at [gerardorafaelbote@gmail.com](mailto:gerardorafaelbote@gmail.com).
-* 🧠  I'm learning ML frameworks like TensorFlow and PyTorch.
-* 🤝  I'm open to collaborating on interesting projects that make resources more accessible.
+* 🧠  I am currently learning ML frameworks like TensorFlow and PyTorch.
+* 🤝  I am open to collaborating on interesting projects that make resources more accessible.
 * ⚡  Did you know that there are 293 ways to make change for a dollar? Interesting...
 
 <a href="https://www.twitter.com/tweetgerardob" target="_blank" rel="noreferrer"><img
